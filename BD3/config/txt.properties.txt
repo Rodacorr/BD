@@ -1,3 +1,0 @@
-nombreArchivo=datos.dat
-ip=localhost
-puerto=1099
