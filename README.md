@@ -1,2 +1,2 @@
 # BaseDeDatos3
-Practico de base de datos 3 integrado con eclipse, sql y github
+Practico de base de datos 3 java, sql
